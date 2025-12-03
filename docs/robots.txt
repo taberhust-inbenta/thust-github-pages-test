@@ -1,4 +1,5 @@
 User-agent: *
 Crawl-delay: 20
-Allow: /test-site/
+Allow: /
+
 Sitemap: https://taberhust-inbenta.github.io/sitemap.xml
