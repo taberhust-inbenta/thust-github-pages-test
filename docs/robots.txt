@@ -1,5 +1,7 @@
 User-agent: *
 Crawl-delay: 20
 Allow: /
+Disallow /e2e-static-site/files/
+Disallow /e2e-static-site/assets/js/
 
 Sitemap: https://taberhust-inbenta.github.io/sitemap.xml

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Product Pages -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/products/product-alpha.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-alpha-1.jpg</image:loc>
+            <image:title>Product Alpha Dashboard</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-alpha-2.jpg</image:loc>
+            <image:title>Product Alpha Analytics</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-alpha-3.jpg</image:loc>
+            <image:title>Product Alpha Integration</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-alpha-4.jpg</image:loc>
+            <image:title>Product Alpha Workflow</image:title>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/products/product-beta.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-beta-1.jpg</image:loc>
+            <image:title>Product Beta Interface</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-beta-2.jpg</image:loc>
+            <image:title>Product Beta Reports</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-beta-3.jpg</image:loc>
+            <image:title>Product Beta Mobile</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-beta-4.jpg</image:loc>
+            <image:title>Product Beta Settings</image:title>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/products/product-gamma.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-gamma-1.jpg</image:loc>
+            <image:title>Product Gamma Dashboard</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-gamma-2.jpg</image:loc>
+            <image:title>Product Gamma Mobile</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-gamma-3.jpg</image:loc>
+            <image:title>Product Gamma Features</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taberhust-inbenta.github.io/e2e-static-site/assets/images/product-gamma-4.jpg</image:loc>
+            <image:title>Product Gamma Setup</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Use Cases -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/use-cases/enterprise.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/use-cases/small-business.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/use-cases/startups.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Articles - Latest News -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/latest-news.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/product-gamma-launch.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/industry-innovation-award.html</loc>
+        <lastmod>2024-03-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/crm-partnership.html</loc>
+        <lastmod>2024-03-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/customer-success-cost-reduction.html</loc>
+        <lastmod>2024-02-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/security-update-encryption.html</loc>
+        <lastmod>2024-02-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Articles - Industry Insights -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/industry-insights.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/future-enterprise-automation-2024.html</loc>
+        <lastmod>2024-03-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/small-business-enterprise-technology.html</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/cloud-native-solutions.html</loc>
+        <lastmod>2024-03-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/data-security-remote-work.html</loc>
+        <lastmod>2024-02-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/roi-business-process-automation.html</loc>
+        <lastmod>2024-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Articles - Product Updates -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/product-updates.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/product-alpha-v3-2.html</loc>
+        <lastmod>2024-03-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/product-beta-mobile-app.html</loc>
+        <lastmod>2024-03-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/product-gamma-api-access.html</loc>
+        <lastmod>2024-03-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/security-enhancements-all-products.html</loc>
+        <lastmod>2024-02-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/articles/product-alpha-integration-partners.html</loc>
+        <lastmod>2024-02-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Blogs -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/blogs/index.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/blogs/getting-started-with-automation.html</loc>
+        <lastmod>2024-03-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- About Pages -->
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/about/company.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/about/team.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/about/mission.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/about/contact.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/about/support.html</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+</urlset>
+

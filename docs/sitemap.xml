@@ -3,4 +3,7 @@
     <sitemap>
         <loc>https://taberhust-inbenta.github.io/test-site/sitemap.xml</loc>
     </sitemap>
+    <sitemap>
+        <loc>https://taberhust-inbenta.github.io/e2e-static-site/sitemap.xml</loc>
+    </sitemap>
 </sitemapindex>

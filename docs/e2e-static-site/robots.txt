@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow /files/
+Disallow /assets/js/
+
+# Sitemap location
+Sitemap: https://taberhust-inbenta.github.io/sitemap.xml
